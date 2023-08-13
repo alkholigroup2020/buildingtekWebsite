@@ -18,22 +18,19 @@ export default {
       // body font
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500&display=swap',
       },
       {
         // arabic headings font
         // font-family: 'Almarai', sans-serif
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap',
       },
       {
         // english headings font
         // font-family: 'Montserrat', sans-serif
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap',
       },
     ],
   },
@@ -67,7 +64,7 @@ export default {
       alwaysRedirect: true,
     },
     lazy: true,
-    langDir: '/locales/',
+    langDir: '~locales/',
     locales: [
       {
         code: 'en',

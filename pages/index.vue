@@ -6,6 +6,7 @@
     <intro />
     <services />
     <projects />
+    <ProjectsFinancials />
     <lets-work />
     <clients />
     <client-logos />
@@ -24,6 +25,7 @@ import LetsWork from '~/components/homePage/LetsWork.vue'
 import Clients from '~/components/homePage/Clients.vue'
 import ClientLogos from '~/components/homePage/ClientLogos.vue'
 import ClientsCount from '~/components/homePage/ClientsCount.vue'
+import ProjectsFinancials from '~/components/homePage/ProjectsFinancials.vue'
 export default {
   components: {
     Landing,
@@ -36,6 +38,7 @@ export default {
     Clients,
     ClientLogos,
     ClientsCount,
+    ProjectsFinancials,
   },
   data() {
     return {

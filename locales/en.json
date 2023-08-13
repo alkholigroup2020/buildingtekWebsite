@@ -192,6 +192,24 @@
         "btn": "Close"
       }
     },
+    "projectsFinancials": {
+      "title": "Financial Data for New Projects",
+      "first": {
+        "title": "University of Baha",
+        "secondaryTitle": "Buildingtek, Wins Contract for Operation, Maintenance, and Cleaning of University of Baha",
+        "body": "Continuing the company's excellence in providing facility management services, especially in the field of universities and higher education, the company has signed a three-year contract with the University of Baha to provide operation, maintenance, and cleaning services for all academic, residential, and administrative facilities of the university. The contract is valued at SAR 44.6 million, and the project operations will commence from August 2023."
+      },
+      "second": {
+        "title": "University of Baha in Provinces",
+        "secondaryTitle": "Buildingtek, Wins Contract for Operation, Maintenance, and Cleaning of University of Baha Branches in Provinces",
+        "body": "The company has signed a three-year contract with the University of Baha to provide operation, maintenance, and cleaning services for the university branches in the provinces. The contract is valued at SAR 44.3 million, and the project operations will commence from August 2023."
+      },
+      "third": {
+        "title": "SATO Residential Complex in NEOM",
+        "secondaryTitle": "Buildingtek, in collaboration with two sister companies, wins facility management contract in SATO Residential Complex in NEOM",
+        "body": "Buildingtek, in collaboration with Sky High and United Projects Company, will lead the management of all facilities in the SATO residential, entertainment, and medical complex, as well as the operation of the sewage station, fire station, security and safety services, and other support services facilities in NEOM city. The contract duration is five years, with an optional five-year extension. The project value depends on the number of residents being served, as the occupancy rate has reached 5,000 guests out of the total capacity of 10,000 people."
+      }
+    },
     "lets": {
       "body": "Let's Work Together!"
     },

@@ -2,7 +2,6 @@
   <v-container class="py-1 py-sm-4 pb-md-6">
     <div class="px-0 px-md-12" id="portfolio">
       <!-- section title -->
-
       <v-row class="pt-5 pt-md-10 pb-2 pb-md-5">
         <v-col cols="12">
           <h2
@@ -17,6 +16,7 @@
           </h2>
         </v-col>
       </v-row>
+
       <!-- tabs come here -->
       <div class="px-2 px-md-0 pt-0">
         <v-row>
@@ -113,7 +113,7 @@
                     title === 'مشروعات الإنشاءات'
                   "
                 >
-                  <gpyw />
+                  <GPYW />
                 </v-col>
                 <v-col
                   cols="6"
