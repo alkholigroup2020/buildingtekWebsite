@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ar/services", {data:[{}],fetch:[],mutations:void 0});
