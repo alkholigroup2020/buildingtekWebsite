@@ -6,7 +6,7 @@
     <intro />
     <services />
     <projects />
-    <ProjectsFinancials />
+    <!-- <ProjectsFinancials /> -->
     <lets-work />
     <clients />
     <client-logos />
